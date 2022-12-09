@@ -1,18 +1,16 @@
-## Getting Started
+Start by clicking the Remix on Glitch button above.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Once you are working with your own copy of the project on Glitch...
 
-## Folder Structure
+Follow the directions available in Blackboard
 
-The workspace contains two folders by default, where:
+DO NOT CHANGE any of the pre-existing code. Your code only goes in main.js.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Did you miss some?
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+It's ok. Go back and make corrections. Then check your score again!
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+When you are ready to submit your work, follow the instructions that are at the top of the score page.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Academic Honesty
+DO NOT COPY - Avoid plagiargism and adhere to the spirit of this Academic Honesty Policy.
